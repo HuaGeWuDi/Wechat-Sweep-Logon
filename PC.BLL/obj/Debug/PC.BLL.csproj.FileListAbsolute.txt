@@ -1,0 +1,16 @@
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.BLL.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.BLL.pdb
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\Model.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.DLL.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\System.Net.Http.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.DBUtility.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.Common.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\Model.pdb
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.DLL.pdb
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.DBUtility.pdb
+D:\公司项目\HaoXingLinPC\PC.BLL\bin\Debug\PC.Common.pdb
+D:\公司项目\HaoXingLinPC\PC.BLL\obj\Debug\PC.BLL.csprojAssemblyReference.cache
+D:\公司项目\HaoXingLinPC\PC.BLL\obj\Debug\PC.BLL.csproj.CoreCompileInputs.cache
+D:\公司项目\HaoXingLinPC\PC.BLL\obj\Debug\PC.BLL.csproj.CopyComplete
+D:\公司项目\HaoXingLinPC\PC.BLL\obj\Debug\PC.BLL.dll
+D:\公司项目\HaoXingLinPC\PC.BLL\obj\Debug\PC.BLL.pdb

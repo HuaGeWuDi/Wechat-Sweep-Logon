@@ -1,0 +1,7 @@
+D:\公司项目\HaoXingLinPC\Model\bin\Debug\Model.dll
+D:\公司项目\HaoXingLinPC\Model\bin\Debug\Model.pdb
+D:\公司项目\HaoXingLinPC\Model\bin\Debug\System.Net.Http.dll
+D:\公司项目\HaoXingLinPC\Model\obj\Debug\PC.Model.csproj.CoreCompileInputs.cache
+D:\公司项目\HaoXingLinPC\Model\obj\Debug\PC.Model.csproj.CopyComplete
+D:\公司项目\HaoXingLinPC\Model\obj\Debug\Model.dll
+D:\公司项目\HaoXingLinPC\Model\obj\Debug\Model.pdb

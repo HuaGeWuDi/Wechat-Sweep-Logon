@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\HaoxinglinPC</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Ashx/iService.ashx">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="bin/HaoXingLinPC.dll">
+      <publishTime>12/17/2018 11:59:52</publishTime>
+    </File>
+    <File Include="bin/HaoXingLinPC.pdb">
+      <publishTime>12/17/2018 11:59:52</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>12/17/2018 09:42:46</publishTime>
+    </File>
+    <File Include="bin/Model.pdb">
+      <publishTime>12/17/2018 09:42:46</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="bin/PC.BLL.dll">
+      <publishTime>12/17/2018 09:42:47</publishTime>
+    </File>
+    <File Include="bin/PC.BLL.pdb">
+      <publishTime>12/17/2018 09:42:47</publishTime>
+    </File>
+    <File Include="bin/PC.Common.dll">
+      <publishTime>12/17/2018 09:42:47</publishTime>
+    </File>
+    <File Include="bin/PC.Common.pdb">
+      <publishTime>12/17/2018 09:42:47</publishTime>
+    </File>
+    <File Include="bin/PC.DBUtility.dll">
+      <publishTime>12/17/2018 09:42:46</publishTime>
+    </File>
+    <File Include="bin/PC.DBUtility.pdb">
+      <publishTime>12/17/2018 09:42:46</publishTime>
+    </File>
+    <File Include="bin/PC.DLL.dll">
+      <publishTime>12/17/2018 09:42:47</publishTime>
+    </File>
+    <File Include="bin/PC.DLL.pdb">
+      <publishTime>12/17/2018 09:42:47</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.min.css">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrapValidator.min.css">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap-modal.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap-transition.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/jQuery-2.1.4.min.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/jquery.bootstrap.newsbox.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="bootstrap/js/jquery.bootstrap.newsbox.min.js">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="Css/index.css">
+      <publishTime>12/17/2018 11:10:28</publishTime>
+    </File>
+    <File Include="Css/tab.css">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="ErrorMsg.aspx">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>12/11/2018 15:46:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="images/1.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/2.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/3.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/address.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/answer.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/banner01.jpg">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/banner02.jpg">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/coin2.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/empty.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/faq.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/logo.jpg">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/logo2.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/mail.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/re-list.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/step1.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/step2.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/step3.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/survey.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/tel.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/time.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/tiwen.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="images/weixin.png">
+      <publishTime>12/10/2018 17:23:56</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>12/11/2018 15:36:28</publishTime>
+    </File>
+    <File Include="JS/jquery-1.10.2.min.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/jquery18.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/page/css/toPage.css">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/page/js/index.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/page/js/jquery1.12.4.min.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/page/js/toPage.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/slides.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="JS/tab.js">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="Redirect_QR.aspx">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="SurveyList.aspx">
+      <publishTime>12/10/2018 17:23:55</publishTime>
+    </File>
+    <File Include="validate.aspx">
+      <publishTime>12/11/2018 15:37:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/17/2018 09:42:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+D:\公司项目\HaoXingLinPC\PC.DBUtility\bin\Release\PC.DBUtility.dll
+D:\公司项目\HaoXingLinPC\PC.DBUtility\bin\Release\PC.DBUtility.pdb
+D:\公司项目\HaoXingLinPC\PC.DBUtility\bin\Release\System.Net.Http.dll
+D:\公司项目\HaoXingLinPC\PC.DBUtility\obj\Release\PC.DBUtility.csprojAssemblyReference.cache
+D:\公司项目\HaoXingLinPC\PC.DBUtility\obj\Release\PC.DBUtility.csproj.CoreCompileInputs.cache
+D:\公司项目\HaoXingLinPC\PC.DBUtility\obj\Release\PC.DBUtility.csproj.CopyComplete
+D:\公司项目\HaoXingLinPC\PC.DBUtility\obj\Release\PC.DBUtility.dll
+D:\公司项目\HaoXingLinPC\PC.DBUtility\obj\Release\PC.DBUtility.pdb

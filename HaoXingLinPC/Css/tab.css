@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+.clear {
+    clear: both;
+}
+.menus {
+	width: 100%;
+	padding-top: 20px;
+}
+.menus ul {
+    width: 100%;
+    /*border-bottom: 2px solid #009FE9;*/
+    position: relative;
+    float: left;
+	padding-bottom: 22px;
+    border-bottom: 1px solid #ccc;
+}
+.menus li {
+	float: left;
+	width: 150px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	cursor: pointer;
+	position: relative;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+.menus li:nth-child(2) {
+    color: #fff;
+}
+.bg {
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #009FE9;
+    /*z-index: -1;*/
+    -webkit-transition: all 0.5s;
+       -moz-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+         -o-transition: all 0.5s;
+            transition: all 0.5s;
+}
+.tabs {
+	width: 100%;
+	margin: 0 auto;
+}
+.tab {
+	color: #888;
+	display: none;
+	min-height: 300px;
+	padding-bottom: 50px;
+}
+.show {
+    display: block;
+}
+.title {
+    text-align: center;
+    padding: 20px;
+    background: #ccc;
+}

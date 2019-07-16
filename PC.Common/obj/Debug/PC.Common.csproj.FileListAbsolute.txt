@@ -1,0 +1,10 @@
+D:\公司项目\HaoXingLinPC\PC.Common\bin\Debug\PC.Common.dll
+D:\公司项目\HaoXingLinPC\PC.Common\bin\Debug\PC.Common.pdb
+D:\公司项目\HaoXingLinPC\PC.Common\bin\Debug\Model.dll
+D:\公司项目\HaoXingLinPC\PC.Common\bin\Debug\System.Net.Http.dll
+D:\公司项目\HaoXingLinPC\PC.Common\bin\Debug\Model.pdb
+D:\公司项目\HaoXingLinPC\PC.Common\obj\Debug\PC.Common.csprojAssemblyReference.cache
+D:\公司项目\HaoXingLinPC\PC.Common\obj\Debug\PC.Common.csproj.CoreCompileInputs.cache
+D:\公司项目\HaoXingLinPC\PC.Common\obj\Debug\PC.Common.csproj.CopyComplete
+D:\公司项目\HaoXingLinPC\PC.Common\obj\Debug\PC.Common.dll
+D:\公司项目\HaoXingLinPC\PC.Common\obj\Debug\PC.Common.pdb

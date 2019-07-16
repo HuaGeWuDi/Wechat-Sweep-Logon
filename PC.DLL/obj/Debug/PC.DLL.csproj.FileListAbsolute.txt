@@ -1,0 +1,14 @@
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\PC.DLL.dll
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\PC.DLL.pdb
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\Model.dll
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\PC.Common.dll
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\PC.DBUtility.dll
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\System.Net.Http.dll
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\Model.pdb
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\PC.Common.pdb
+D:\公司项目\HaoXingLinPC\PC.DLL\bin\Debug\PC.DBUtility.pdb
+D:\公司项目\HaoXingLinPC\PC.DLL\obj\Debug\PC.DLL.csprojAssemblyReference.cache
+D:\公司项目\HaoXingLinPC\PC.DLL\obj\Debug\PC.DLL.csproj.CoreCompileInputs.cache
+D:\公司项目\HaoXingLinPC\PC.DLL\obj\Debug\PC.DLL.csproj.CopyComplete
+D:\公司项目\HaoXingLinPC\PC.DLL\obj\Debug\PC.DLL.dll
+D:\公司项目\HaoXingLinPC\PC.DLL\obj\Debug\PC.DLL.pdb
