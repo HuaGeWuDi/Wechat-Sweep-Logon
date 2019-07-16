@@ -14,6 +14,7 @@ namespace HaoXingLinPC
         protected void Application_Start(object sender, EventArgs e)
         {
             RouteConfig.RouteRegister(RouteTable.Routes);
+            //SBSB
         }
 
         protected void Session_Start(object sender, EventArgs e)
